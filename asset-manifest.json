@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rajraz/Todo-app-react.git/static/css/main.bdca2cd6.css",
+    "main.js": "/Rajraz/Todo-app-react.git/static/js/main.b3251ca6.js",
+    "static/js/787.2843ca88.chunk.js": "/Rajraz/Todo-app-react.git/static/js/787.2843ca88.chunk.js",
+    "index.html": "/Rajraz/Todo-app-react.git/index.html",
+    "main.bdca2cd6.css.map": "/Rajraz/Todo-app-react.git/static/css/main.bdca2cd6.css.map",
+    "main.b3251ca6.js.map": "/Rajraz/Todo-app-react.git/static/js/main.b3251ca6.js.map",
+    "787.2843ca88.chunk.js.map": "/Rajraz/Todo-app-react.git/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdca2cd6.css",
+    "static/js/main.b3251ca6.js"
+  ]
+}
